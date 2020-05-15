@@ -62,3 +62,11 @@
   - ![image](https://user-images.githubusercontent.com/29707967/82057271-0cdea980-96fe-11ea-8748-097b588543c8.png)
 - 간단 디자인
   - ![image](https://user-images.githubusercontent.com/29707967/82057352-2da6ff00-96fe-11ea-8f99-f38177fa6f76.png)
+
+---
+
+### 🏅 대회 결과
+
+<center><img src="https://github.com/Yossarian92/2019_Gangwon_IDEA_SW_HACKATHON/raw/master/Images/photo5.jpg" width="600" height="800"></center>
+<center><img src="https://github.com/Yossarian92/2019_Gangwon_IDEA_SW_HACKATHON/raw/master/Images/photo4.jpg" width="800" height="600"></center>
+<center><img src="https://github.com/Yossarian92/2019_Gangwon_IDEA_SW_HACKATHON/raw/master/Images/photo1.jpg" width="1000" height="600"></center>
